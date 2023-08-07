@@ -15,5 +15,5 @@
 ``source  env/bin/activate``
 - Install dependencies
 ``pip3  install  -r  requeriments.txt``
-- Run proyect
+- Run project
 ``python3  main.py``
